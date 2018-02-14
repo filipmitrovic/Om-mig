@@ -50,12 +50,12 @@ main > img {
     text-shadow: 2px 4px 8px #FFF;
 }
 
-footer {
+footer {   
     text-align: center;
     padding: 2px;
-    background-color: #00000042
-}
-
-.navigation > .links > .hr {
-    float: left 20%;
+    background-color: #000000;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;    
+    position: fixed;
 }
